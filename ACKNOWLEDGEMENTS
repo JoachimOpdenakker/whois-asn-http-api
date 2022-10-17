@@ -1,0 +1,6 @@
+OpenBMP PostgreSQL consumer
+Publicly available as free software under the BSD 3-Clause "New" or "Revised" License (https://github.com/OpenBMP/obmp-psql/blob/main/LICENSE)and available on https://github.com/OpenBMP/obmp-psql/
+
+Copyright (c) 2021 Cisco Systems, Inc. and Tim Evens.  All rights reserved.
+
+OpenBMP PostgreSQL consumer - The PostgreSQL consumer impements the OpenBMP Message Bus API parsed messages to collect and store BMP/BGP data from all collectors, routers and peers in real-time. 
